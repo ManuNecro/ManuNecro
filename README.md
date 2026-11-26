@@ -38,4 +38,4 @@ Ancien technicien de chantier sur site nucléaire sécurisé (CEA Valduc), j'ai 
 ### 📫 Me contacter
 
 [![Email](https://img.shields.io/badge/Email-manuel.pussenot%40coda--student.school-D14836?style=flat&logo=gmail&logoColor=white)](mailto:manuel.pussenot@coda-student.school)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manuel%20Pussenot-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TON-IDENTIFIANT/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manuel%20Pussenot-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-pussenot-917709209/)
